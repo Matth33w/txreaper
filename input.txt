@@ -1,0 +1,7 @@
+Matheus;Ibrahim;19;Masculino
+João;Alves;18;Masculino
+Patricia;Oliveira;24;Feminino
+Rodrigo;Santana;22;Masculino
+Roberto;Silva;46;Masculino
+Júlia;Antunes;17;Feminino
+Maria;Elizabeth;39;Feminino

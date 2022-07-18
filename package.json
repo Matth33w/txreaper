@@ -1,0 +1,9 @@
+{
+  "name": "txreaper",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Matth33w",
+  "dependencies": {
+    "scanf": "^1.1.2"
+   }
+}
